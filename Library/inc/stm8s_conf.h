@@ -9,6 +9,7 @@
 #include "stm8s_gpio.h"
 #include "stm8s_spi.h"
 #include "stm8s_exti.h"
+#include "stm8_uart.h"
 
 /* Assert */
 #define USE_FULL_ASSERT    (0)
